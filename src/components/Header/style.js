@@ -52,13 +52,13 @@ export const Menu = styled.div`
    margin-right: 12px;
    text-decoration: none;
 `
-export const MenuRigth = styled.div`
+export const MenuRigth = styled.a`
    font-family: 'Open Sans';
    font-style: normal;
    font-size: 14px;
    line-height: 25px;
    color: #ffffff;
-   margin-right: 12px;
+   margin-right: 15px;
    text-decoration: none;
 `
 export const UserPicture = styled.img`
